@@ -11,10 +11,10 @@ Here is cute little golang mascot  who goes by the name of **Batman Gopher**:
 
 ---
 
-Legal:
+*Legal*:
 
-Gophar Image created by [@ashleymcnamara](https://twitter.com/ashleymcnamara?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) based on original artwork from [@reneefrench](https://twitter.com/reneefrench?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+_Gophar Image created by [@ashleymcnamara](https://twitter.com/ashleymcnamara?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) based on original artwork from [@reneefrench](https://twitter.com/reneefrench?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)_.
 
-The gopher image work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) International License.
+_The gopher image work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) International License_.
 
 ---
