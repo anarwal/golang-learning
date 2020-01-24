@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Using the code from the exercise jedi-level09/exercise-08, add a record to your map. Now print the map out using the “range” loop
+// Using the code from exercise jedi-level09/exercise-08, add a record to your map. Now print the map out using the “range” loop
 
 func main() {
 	m := make(map[string][]string)
