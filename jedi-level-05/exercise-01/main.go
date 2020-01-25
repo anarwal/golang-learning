@@ -20,7 +20,7 @@ func main() {
 	p1.lastName = "doe"
 	p1.favIceCreamFlavor = []string{"vanilla", "chocolate"}
 
-	p2 := person{"sam", "doe", []string{"chocolate", "black-current"}}
+	p2 := person{"sam", "smarty", []string{"chocolate", "black-current"}}
 
 	fmt.Println(p1)
 	fmt.Println(p2)
