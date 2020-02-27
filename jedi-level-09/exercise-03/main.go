@@ -31,6 +31,7 @@ func main() {
 			runtime.Gosched()
 			v++
 			incrementer = v
+			fmt.Println(incrementer)
 			wg.Done()
 		}()
 		fmt.Println("Goroutines: ", runtime.NumGoroutine())
